@@ -14,11 +14,13 @@ ROS modules that facilitate connected autonomous vehicles and infrastructure ope
 
 Enabled support for Ubuntu 16.04 (ROS Kinetic) or Ubuntu 18.04 (ROS Melodic) 
 
-## Installation & Usage 
+## Build 
 
-Under development - visit "README" for each module.
-
-
+The repository is under development...
+```sh
+cd ~/catkin_ws/src && git clone https://github.com/zlg9folira/CAVAS_ecosystem.git
+cd ~/catkin_ws && catkin_make
+```
 
 ## Meta
 
