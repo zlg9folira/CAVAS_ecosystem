@@ -29,7 +29,7 @@ include the header files in your C++ project as:
 ```
 Create subscriber/publisher using `message_filters::Subscriber<cavas_msgs::SPaT>`:
 ```sh
-message_filters::Subscriber<cavas_msgs::SPaT> CPTL(nh, "/infra/SPaT", 5);
+message_filters::Subscriber<cavas_msgs::SPaT> CPTL(nh, "/infra/SPaT", 1);
 ```
 
 
