@@ -18,7 +18,7 @@ catkin_make --only-pkg-with-deps cavas_msgs
 
 Include header file for the message you need in your project:
 ```sh
-#include <cavas_msgs/SPaT.h
+#include <cavas_msgs/SPaT.h>
 ```
 Make publisher/subscriber using `<cavas_msgs::<MSG>>`, example:
 ```sh
