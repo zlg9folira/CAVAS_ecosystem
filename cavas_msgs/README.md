@@ -23,6 +23,7 @@ cd ..
 catkin_make --only-pkg-with-deps cavas_msgs
 ```
 3- Usage: 
+
 include the header files in your C++ project as: 
 ```sh
 #include <cavas_msgs/SPaT.h>
