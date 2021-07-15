@@ -20,7 +20,7 @@ Include header file for the message you need in your project:
 ```sh
 #include <cavas_msgs/SPaT.h
 ```
-Make publisher/subscriber using 
+Make publisher/subscriber using `<cavas_msgs::<MSG>>`, example:
 ```sh
 message_filters::Subscriber<cavas_msgs::SPaT> CPTL (nh, "/infra/CPTL_0", 1);
 ```
