@@ -17,11 +17,21 @@ cd catkin_ws/src
 git clone https://github.com/zlg9folira/CAVAS_ecosystem.git
 ```
 
-2- Build and install: 
+2- Build: 
 ```sh
 cd ..
 catkin_make --only-pkg-with-deps cavas_msgs
 ```
+3- Usage: 
+include the header files in your C++ project as: 
+```sh
+#include <cavas_msgs/SPaT.h>
+```
+Create a subscriber/publisher using `message_filters::Subscriber<cavas_msgs::SPaT>`:
+```sh
+message_filters::Subscriber<cavas_msgs::SPaT> CPTL(nh, "/infra/SPaT", 5);
+```
+
 
 ## Meta
 
