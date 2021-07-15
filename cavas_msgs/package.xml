@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>cavas_msgs</name>
-  <version>1.1.0</version>
+  <version>1.0.1</version>
   <description>ROS message stack for CAVAS ecosystem</description>
   <maintainer email="foadhaji@buffalo.edu">Foad Hajiaghajani</maintainer>
   <license>self</license>
