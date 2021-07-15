@@ -1,6 +1,6 @@
 ## cavas_msgs
 
-ROS messages that facilitate communication between connected autonomous vehicles and infrastructure nodes in campus-wide CAVAS ecosystem
+ROS messages that facilitate communication between connected autonomous vehicles and infrastructure nodes in campus-wide CAVAS ecosystem.
  
 
 ## System Requirements
