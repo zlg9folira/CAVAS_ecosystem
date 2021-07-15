@@ -38,6 +38,4 @@ message_filters::Subscriber<cavas_msgs::SPaT> CPTL(nh, "/infra/SPaT", 1);
 
 Credit: Foad Hajiaghajani
 
-[CONNECTED AND AUTONOMOUS VEHICLE APPLICATIONS AND SYSTEMS](https://ubwp.buffalo.edu/cavas)
-
 
