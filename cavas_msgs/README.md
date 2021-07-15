@@ -1,11 +1,6 @@
-## CAVAS Ecosystem
+## CAVAS Messages
 
-ROS modules that facilitate connected autonomous vehicles and infrastructure operations in campus-wide CAVAS ecosystem.
-
-<p align="center">
-  <img src="https://ubwp.buffalo.edu/cavas/wp-content/uploads/sites/105/2018/11/icave2_pic-1024x554.png">
-</p>
-
+ROS Messages that facilitate communication between connected autonomous vehicles and infrastructure across campus-wide CAVAS ecosystem.
  
 
 ## System Requirements
@@ -16,9 +11,17 @@ Enabled support for Ubuntu 16.04 (ROS Kinetic) or Ubuntu 18.04 (ROS Melodic)
 
 ## Installation & Usage 
 
-Under development - visit "README" for each module.
+1 - Change directory to the source directory of your catkin workspace and clone:
+```sh
+cd catkin_ws/src
+git clone https://github.com/zlg9folira/savari_msgs.git
+```
 
-
+2- Build and install: 
+```sh
+cd ..
+catkin_make --only-pkg-with-deps cavas_msgs
+```
 
 ## Meta
 
