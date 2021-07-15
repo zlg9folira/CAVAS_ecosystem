@@ -28,7 +28,7 @@ include the header files in your C++ project as:
 ```sh
 #include <cavas_msgs/SPaT.h>
 ```
-Create subscriber/publisher using `<cavas_msgs::SPaT>`:
+Create subscriber/publisher using `<cavas_msgs::<MSG>>`:
 ```sh
 message_filters::Subscriber<cavas_msgs::SPaT> CPTL(nh, "/infra/SPaT", 1);
 ```
