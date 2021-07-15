@@ -1,0 +1,17 @@
+<package>
+  <name> cavas_ecosystem </name>
+  <version>1.0.10</version>
+  <description>
+    CAVAS ecosystem software modules and components
+  </description>
+  <maintainer email="foadhaji@buffalo.edu">Foad Hajiaghajani</maintainer>
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <run_depend>cavas_msgs</run_depend>
+
+  <export>
+    <metapackage/>
+  </export>
+</package>
