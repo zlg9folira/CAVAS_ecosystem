@@ -14,7 +14,7 @@ Enabled support for Ubuntu 16.04 (ROS Kinetic) or Ubuntu 18.04 (ROS Melodic)
 1 - Change directory to the source directory of your catkin workspace and clone:
 ```sh
 cd catkin_ws/src
-git clone https://github.com/zlg9folira/savari_msgs.git
+git clone https://github.com/zlg9folira/CAVAS_ecosystem.git
 ```
 
 2- Build and install: 
