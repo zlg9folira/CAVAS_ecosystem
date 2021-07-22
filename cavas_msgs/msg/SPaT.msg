@@ -1,6 +1,5 @@
 # Message from CAVAS connected portable traffic light (CPTL) system  
 # Author:			Foad Hajiaghajani
-# Email:			foadhaji[at]buffalo.edu
 # Last Modified:		July 2021
 # ------------
 
