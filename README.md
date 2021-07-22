@@ -1,6 +1,6 @@
 ## CAVAS Ecosystem
 
-ROS modules that facilitate connected autonomous vehicles and infrastructure operations in campus-wide CAVAS ecosystem.
+ROS modules that facilitate connected autonomous vehicles and infrastructure operations in campus-wide UB CAVAS ecosystem.
 
 <p align="center">
   <img src="https://ubwp.buffalo.edu/cavas/wp-content/uploads/sites/105/2018/11/icave2_pic-1024x554.png">
