@@ -1,6 +1,6 @@
 ## CAVAS Ecosystem
 
-ROS modules that facilitate connected autonomous vehicles and infrastructure operations in campus-wide UB CAVAS ecosystem.
+ROS modules and software interfaces that facilitate operation, control and monitoring for connected autonomous vehicles and smart infrastructure across UB SUNY Campus.
 
 <p align="center">
   <img alt="cavas_ecosystem" src="https://user-images.githubusercontent.com/35779029/126885628-54658e8e-fc84-4387-9037-1734edecd89c.png">
