@@ -15,6 +15,3 @@ float64 longitude		# global coordinate of the infrastructure
 string phase			# current phase string e.g., "r","g", etc.
 string next_phase		# upcoming phase e.g., "r","g", etc.
 float32 time_to_change		# time to next phase update (sec)
-
-
-
