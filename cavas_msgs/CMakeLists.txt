@@ -8,7 +8,8 @@ add_message_files(
   FILES
   SPaT.msg
   LatLon.msg
-  GeoLocs.msg)
+  GeoLocs.msg
+  VehicleArray.msg)
 
 generate_messages(DEPENDENCIES std_msgs)
 
