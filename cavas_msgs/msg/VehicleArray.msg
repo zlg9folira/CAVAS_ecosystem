@@ -1,4 +1,4 @@
-# Message for storing a list of features for all simulated vehicles
+# Message for storing a list of features for all vehicles
 # Author:			Foad Hajiaghajani
 # Last Modified:		Sept 2022
 # ------------
