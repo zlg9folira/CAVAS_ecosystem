@@ -1,5 +1,5 @@
 
-## VAISALA waether msgs
+## vaisala_msgs
 
 This package defines ROS messages related to road weather information optimized for VAISALA API (https://www.vaisala.com/en). Messages are defined to include both location and weather information. This information is used by the fleet of Connected Autonomous Vehicles on UB campus.
 
