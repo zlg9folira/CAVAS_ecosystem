@@ -1,5 +1,5 @@
 # vaisala_ros
-ROS packages to access road weather information system (RWIS) from VAISALA road-side unit
+ROS packages to access road weather information system (RWIS) data from VAISALA road-side unit
 ![rwis_layers](https://github.com/zlg9folira/CAVAS_ecosystem/assets/35779029/441ff19e-c6f8-4e1c-83bc-170ac2c58261)
 
 ## Packages
